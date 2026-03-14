@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DW_Logo_2021.svg" group-title="Noticias",DW Español
-https://dwamdstream103.akamaized.net/hls/live/2015531/dwstream103/index.m3u8
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwamdstream103.akamaized.net/hls/live/2015531/dwstream103/index.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/France_24_logo.svg" group-title="Noticias",France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Noticias",France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/RT_logo.svg" group-title="Noticias",RT en Español
-https://rt-esp.rttv.com/live/rt_esp/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",RT en Español
+https://rt-esp.rttv.com/live/rt_esp/playlist.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TeleSUR-Logo.png" group-title="Noticias",TeleSUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/CGTN_Espanol_logo.png" group-title="Noticias",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="Noticias",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8|User-Agent=Mozilla/5.0
