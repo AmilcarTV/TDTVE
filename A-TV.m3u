@@ -1,81 +1,16 @@
 #EXTM3U
 
-# ===== VENEZUELA =====
-
-#EXTINF:-1 group-title="Venezuela" ,Venevisión HD
-https://stream-01.nyc.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXQ)/dm/3/x7tnq9j/s/live-3.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Venevisión Señal 2
-https://stream-02.nyc.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXQ)/dm/3/x7tnq9j/s/live-4.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Venevisión Internacional
-https://stream-03.nyc.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXQ)/dm/3/x7tnq9j/s/live-5.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Televen
-https://cloud.streamingconnect.tv/hls/televen.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,VTV
-https://controlstreams.com:1936/ventv/ventv/playlist.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,TVes
-https://cdnesmain.tves.gob.ve/live/tvesweb.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,ViVe TV
-https://vcp.myplaytv.com/vive/vive/playlist.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Globovisión
-https://cloud.streamingconnect.tv/hls/globovision.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,TLT
-https://cloud.streamingconnect.tv/hls/tlt.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Meridiano TV
-https://cloud.streamingconnect.tv/hls/meridiano.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,IVC
-https://cloud.streamingconnect.tv/hls/ivc.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Promar TV
-https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Vepaco TV
-https://vcp.myplaytv.com/vepaco/vepaco/playlist.m3u8
-
-#EXTINF:-1 group-title="Venezuela" ,Canal i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-
-
-# ===== ESPAÑA INTERNACIONAL (NO GEOBLOQUEADOS) =====
-
-#EXTINF:-1 group-title="España" ,RTVE 24h Internacional
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-
-#EXTINF:-1 group-title="España" ,Andalucía TV
-https://cdnlive.shooowit.net/rtva-live/smil:channel1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="España" ,Aragón TV Internacional
-https://cartv.streaming.aranova.es/hls/live/aragontv/playlist.m3u8
-
-#EXTINF:-1 group-title="España" ,TVG América
-https://amodino-crtvg.flumotion.com/crtvg/tvg-america-high.m3u8
-
-#EXTINF:-1 group-title="España" ,Telemadrid Sat
-https://telemadridsat-live.secure.footprint.net/egress/bhandler/telemadridsat/telemadridsat.m3u8
-
-
-# ===== NOTICIAS INTERNACIONALES EN ESPAÑOL =====
-
-#EXTINF:-1 group-title="Noticias" ,France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-
-#EXTINF:-1 group-title="Noticias" ,DW Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DW_Logo_2021.svg" group-title="Noticias",DW Español
 https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="Noticias" ,RT Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/France_24_logo.svg" group-title="Noticias",France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/RT_logo.svg" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rt_esp/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias" ,Euronews Español
-https://euronews-euronews-spanish-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TeleSUR-Logo.png" group-title="Noticias",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias" ,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/CGTN_Espanol_logo.png" group-title="Noticias",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
